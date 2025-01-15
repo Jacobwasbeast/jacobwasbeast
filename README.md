@@ -21,7 +21,7 @@ I’m a passionate developer combining technology and creativity to craft immers
 ---
 
 ##  Tech Stack:
-- **Languages:** Java, Python, C#, JavaScript  
+- **Languages:** Java, Python, C#  
 - **Tools & Frameworks:** Git, WPF 
 - **Focus Areas:** Game development, AI synthesis, UI/UX design  
 
