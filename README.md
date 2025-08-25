@@ -13,9 +13,8 @@ I’m a passionate developer combining technology and creativity to craft immers
 ---
 
 ## Featured Work:
-- **Supernatural Minecraft Mod:** A mod inspired by the TV show, introducing rituals, symbols, and custom features.  
-- **Ryujinx Contributions:** I have worked on some features including **Amiibo bin files** and the **Cabinet Menu**.  
-- **AI-Driven Virtual Assistant:** Currently in development—stay tuned!  
+- **Picture Axe:** A mod inspired by the images mod, which allows players to put images from the web on shields, beds, and 6 sided image blocks.
+- **Ryujinx Contributions:** I have worked on some features including **Amiibo bin files** and the **Cabinet Menu**.   
 - **AI Vtuber (AishaRinne):** Supporting the creation and rebranding of an AI-powered VTuber experience.  
 
 ---
