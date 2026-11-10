@@ -1,15 +1,11 @@
 # Hi, I'm Jacobwasbeast
-
-**Game modder · Emulator contributor · Open-source developer**
-
-I build mods, tools, and features for the games and projects I'm passionate about.
+I sometimes build mods, tools, and features for the games and projects I'm passionate about.
 
 ---
 
-## What I work on
+## What I worked on
 - **Minecraft mods** — adding features I wish the game had
 - **Emulators** — contributing to projects like **Ryujinx**
-- **Game reconstruction** — rebuilding classic game source code so it can be studied, preserved and improved
 - **Open source** — helping improve community-driven projects
 
 ---
